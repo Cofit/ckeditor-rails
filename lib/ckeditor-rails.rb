@@ -25,6 +25,7 @@ module Ckeditor
         %W[
           a11yhelp
           about
+          autoembed
           clipboard
           colordialog
           dialog
