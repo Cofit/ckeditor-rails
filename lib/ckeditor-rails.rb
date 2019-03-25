@@ -49,6 +49,7 @@ module Ckeditor
           embed
           autolink
           autoembed
+          html5video
         ]
       end
 
