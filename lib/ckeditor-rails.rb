@@ -25,12 +25,10 @@ module Ckeditor
         %W[
           a11yhelp
           about
-          autoembed
           clipboard
           colordialog
           dialog
           div
-          embed
           find
           flash
           forms
@@ -47,6 +45,9 @@ module Ckeditor
           tabletools
           templates
           wsc
+          embedbase
+          embed
+          autoembed
         ]
       end
 
