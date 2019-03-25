@@ -47,6 +47,7 @@ module Ckeditor
           wsc
           embedbase
           embed
+          autolink
           autoembed
         ]
       end
