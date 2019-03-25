@@ -29,6 +29,7 @@ module Ckeditor
           colordialog
           dialog
           div
+          embed
           find
           flash
           forms
